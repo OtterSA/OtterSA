@@ -1,4 +1,4 @@
-## Hi there 👋
+## Current Student at Brown University, Class of 2028.
 
 <!--
 **OtterSA/OtterSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
